@@ -82,7 +82,7 @@ __2. Path planning:__
 	roslaunch turtlebot_arm_bringup arm.launch
 	roslaunch turtlebot_arm_moveit_config turtlebot_arm_moveit.launch 
 	
-Video: [Path planning and Execution](https://github.com/NathanCrombez/PhantomXPincherArmROS/blob/master/videos/PathPlanningAndExecution264.mp4) 
+Video: [Path planning and Execution](https://cloud.u-bourgogne.fr/index.php/apps/files/ajax/download.php?dir=%2Fvid%C3%A9os&files=PincherArmPickAndPlace264.mp4) 
 
 
 
