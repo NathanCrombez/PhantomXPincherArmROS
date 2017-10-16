@@ -1,4 +1,4 @@
-#PhantomX Pincher arm under ROS indigo 
+# PhantomX Pincher arm under ROS indigo 
 
 <img src="https://github.com/NathanCrombez/PhantomXPincherArmROS/blob/master/images/pincher.jpg" align ="middle" width="60%" height="60%" title="header">
 
@@ -25,7 +25,7 @@ Installation from source:
 
 	
 
-##arbotix
+## arbotix
 
 The arm architecture is described in a yaml file. USB port, number of joints, limits...
 
@@ -45,7 +45,7 @@ The arm architecture is described in a yaml file. USB port, number of joints, li
 	
 see ROS by examples vol.2 for further information.
 
-##turtlebot_arm ROS package
+## turtlebot_arm ROS package
 __Content:__
 
 - turtlebot_arm _bringup: TODO
