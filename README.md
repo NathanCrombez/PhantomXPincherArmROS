@@ -1,7 +1,7 @@
 # PhantomX Pincher arm under ROS indigo 
-
+<p align="center">
 <img src="https://github.com/NathanCrombez/PhantomXPincherArmROS/blob/master/images/pincher.jpg" align ="middle" width="60%" height="60%" title="header">
-
+</p>
 
 ## Packages installation 
 
@@ -84,7 +84,8 @@ __2. Path planning:__
 	roslaunch turtlebot_arm_bringup arm.launch
 	roslaunch turtlebot_arm_moveit_config turtlebot_arm_moveit.launch 
 	
-Video :
+Video:
+
 [![YOUTUBE VIDEO](https://img.youtube.com/vi/srDlH51DyNc/0.jpg)](https://youtu.be/srDlH51DyNc)
 
 
@@ -184,6 +185,7 @@ Explanations: TODO
 	
 	
 Video :
+
  [![YOUTUBE VIDEO](https://img.youtube.com/vi/zvuJRbIJwj8/0.jpg)](https://youtu.be/zvuJRbIJwj8)
 
 
