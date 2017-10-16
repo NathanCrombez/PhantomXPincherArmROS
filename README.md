@@ -10,7 +10,7 @@ ArbotiX ROS drivers to interface with the ArbotiX board.
 Installation from source:
 
 	cd ~/ros/indigo/catkin_ws/src
-	git clone https://github.com/corb555/arbotix_ros
+	git clone https://github.com/NathanCrombez/arbotix_ros
 	cd .. && catkin_make
 
 
@@ -20,7 +20,7 @@ The Kinetic version provides code for the PhantomX Pincher. The Kinectic version
 Installation from source:
 
 	cd ~/ros/indigo/catkin_ws/src
-	git clone  https://github.com/answer17/turtlebot_arm
+	git clone  https://github.com/NathanCrombez/turtlebot_arm
 	cd .. && catkin_make
 
 	
