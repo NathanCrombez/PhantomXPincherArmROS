@@ -64,8 +64,9 @@ __1. Getting started:__
 	roslaunch turtlebot_arm_bringup arm.launch
 	rosrun arbotix_python arbotix_gui
 
+<p align="center">
 <img src="https://github.com/NathanCrombez/PhantomXPincherArmROS/blob/master/images/arbotix_gui.png" width="45%" height="45%" title="arbotix gui">
-
+</p>
 
 
 __2. Path planning:__
@@ -73,9 +74,10 @@ __2. Path planning:__
 2.1 - Path planning simulation :
 
 	roslaunch turtlebot_arm_moveit_config turtlebot_arm_moveit.launch 
-	
-<img src="https://github.com/NathanCrombez/PhantomXPincherArmROS/blob/master/images/pathplanning.png " width="50%" height="50%" title="rviz path planning">
 
+<p align="center">	
+<img src="https://github.com/NathanCrombez/PhantomXPincherArmROS/blob/master/images/pathplanning.png " width="50%" height="50%" title="rviz path planning">
+</p>
 
 
 2.2 - Path planning with a real arm :
@@ -86,8 +88,9 @@ __2. Path planning:__
 	
 Video:
 
+<p align="center">
 [![YOUTUBE VIDEO](https://img.youtube.com/vi/srDlH51DyNc/0.jpg)](https://youtu.be/srDlH51DyNc)
-
+</p>
 
 
 __3. Kinect/Arm calibration:__
@@ -97,7 +100,9 @@ __3. Kinect/Arm calibration:__
 - The complete checkerboard have to be in the kinect field of view
 - Be sure that the arm can reach every point on the checkerboard
 
+<p align="center">
 <img src="https://github.com/NathanCrombez/PhantomXPincherArmROS/blob/master/images/setup.jpg" width="50%" height="50%" title="setup">
+</p>
 
 3.2 Calibration:
 
@@ -112,7 +117,9 @@ Launch the calibration program
 	
 First, this should detect the checkerboard and pop up the image shown below, with the calibration pattern edges overlaid and four points marked on the image. 
 
+<p align="center">
 <img src="https://github.com/NathanCrombez/PhantomXPincherArmROS/blob/master/images/cornersdetection.png" width="50%" height="50%" title="cornersdetection">
+</p>
 
 As the terminal instructions say,  move the right part of the open gripper to the four specified points like on the following photos. 
 
@@ -124,10 +131,11 @@ As the terminal instructions say,  move the right part of the open gripper to th
 	Move edge of gripper to point 1 in image and press Enter
 	[....]
 	
-	
+<p align="center">	
 <img src="https://github.com/NathanCrombez/PhantomXPincherArmROS/blob/master/images/corner1.jpg" width="50%" height="50%" title="corner 1">
 <img src="https://github.com/NathanCrombez/PhantomXPincherArmROS/blob/master/images/corner2.jpg" width="50%" height="50%" title="corner 2">
 <img src="https://github.com/NathanCrombez/PhantomXPincherArmROS/blob/master/images/corner3.jpg" width="50%" height="50%" title="corner 3">
+</p>
 
 After moving to the fourth point, the calibration script will output something like the following: 
 
@@ -169,10 +177,11 @@ As long as this command runs, the static_transform_publisher will publish the tr
 
 Whichever visualization option you chose, the kinect pointcloud  should line up with the actual position of the arm in rviz, as shown in the image below. 
 
+<p align="center">
 <img src="https://github.com/NathanCrombez/PhantomXPincherArmROS/blob/master/images/aftercalibframes.png " width="50%" height="50%" title="after calibration frames">
 <img src="https://github.com/NathanCrombez/PhantomXPincherArmROS/blob/master/images/aftercalib.png " width="50%" height="50%" title="after calibration">
 <img src="https://github.com/NathanCrombez/PhantomXPincherArmROS/blob/master/images/aftercalibrealtruth.jpg" width="50%" height="50%" title="after calib real truth">
-
+</p>
 
 
 
@@ -186,8 +195,9 @@ Explanations: TODO
 	
 Video :
 
+<p align="center">
  [![YOUTUBE VIDEO](https://img.youtube.com/vi/zvuJRbIJwj8/0.jpg)](https://youtu.be/zvuJRbIJwj8)
-
+</p>
 
 
 
