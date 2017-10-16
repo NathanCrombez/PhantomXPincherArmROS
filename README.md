@@ -64,9 +64,9 @@ __1. Getting started:__
 	roslaunch turtlebot_arm_bringup arm.launch
 	rosrun arbotix_python arbotix_gui
 
-
+<p align="center">
 <img src="https://github.com/NathanCrombez/PhantomXPincherArmROS/blob/master/images/arbotix_gui.png" width="45%" height="45%" title="arbotix gui">
-
+</p>
 
 
 __2. Path planning:__
@@ -88,9 +88,9 @@ __2. Path planning:__
 	
 Video:
 
-<p align="center">
 [![YOUTUBE VIDEO](https://img.youtube.com/vi/srDlH51DyNc/0.jpg)](https://youtu.be/srDlH51DyNc)
-</p>
+
+
 
 
 __3. Kinect/Arm calibration:__
