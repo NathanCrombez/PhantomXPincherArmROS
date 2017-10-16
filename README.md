@@ -181,7 +181,7 @@ Explanations: TODO
 	rosrun tf static_transform_publisher 0.424262 0.0548834 0.943436 -0.480766 -0.00262613 0.874737 0.0607612 /base_link /camera_link 100
 	roslaunch block_manip_complete.launch
 
-Video: [Pick and Place](https://github.com/NathanCrombez/PhantomXPincherArmROS/blob/master/videos/PincherArmPickAndPlace.mp4) 
+Video: [Pick and Place](https://github.com/NathanCrombez/PhantomXPincherArmROS/blob/master/videos/PincherArmPickAndPlace264.mp4) 
 
 
 
